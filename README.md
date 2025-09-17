@@ -1,6 +1,6 @@
 # Aditya Singh
 
-I’m a Computer Science (Co-op) student at **Dalhousie University** who likes turning ideas into small, working tools—web apps, scripts, and data utilities.
+I’m a second-year Computer Science (Co-op) student at **Dalhousie University** that makes some things.
 
 **Email:** [adityasingh@dal.ca](mailto:adityasingh@dal.ca)  
 **GitHub:** [Zvezda4994](https://github.com/Zvezda4994)  
