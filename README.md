@@ -1,9 +1,3 @@
----
-layout: default
-title: Aditya Singh
-description: "BCS (Co-op) @ Dalhousie • Sexton Scholar • building small data tools & web apps"
----
-
 # Aditya Singh
 
 I’m a Computer Science (Co-op) student at **Dalhousie University** who likes turning ideas into small, working tools—web apps, scripts, and data utilities.
