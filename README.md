@@ -2,10 +2,12 @@
 
 I’m a Computer Science (Co-op) student at **Dalhousie University** who likes turning ideas into small, working tools—web apps, scripts, and data utilities.
 
-**Email:** adityasingh@dal.ca  
-**GitHub:** https://github.com/Zvezda4994  
-**LinkedIn:** https://www.linkedin.com/in/aditya-singh-642449253/  
-**Resume (PDF):** /assets/Aditya_Singh_Resume.pdf
+**Email:** [adityasingh@dal.ca](mailto:adityasingh@dal.ca)  
+**GitHub:** [Zvezda4994](https://github.com/Zvezda4994)  
+**LinkedIn:** [Aditya Singh](https://www.linkedin.com/in/aditya-singh-642449253/)  
+**Resume (PDF):** [Download here](/assets/Aditya_Singh_Resume.pdf)
+[Resume (PDF)](/assets/Aditya_Singh_Resume.pdf){: .btn }
+
 
 ---
 
