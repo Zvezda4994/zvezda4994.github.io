@@ -5,7 +5,7 @@ I’m a second-year Computer Science (Co-op) student at **Dalhousie University**
 **Email:** [adityasingh@dal.ca](mailto:adityasingh@dal.ca)  
 **GitHub:** [Zvezda4994](https://github.com/Zvezda4994)  
 **LinkedIn:** [Aditya Singh](https://www.linkedin.com/in/aditya-singh-642449253/)  
-**Resume (PDF):** [Resume (PDF)](/assets/Aditya_Singh_Resume.pdf){: .btn }
+**My Resume:** [Resume (PDF)](/assets/Aditya_Singh_Resume.pdf){: .btn }
 
 
 ---
