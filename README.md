@@ -17,7 +17,7 @@ Web app to compare ground observations with Landsat passes; pick a location and 
 **Stack:** Flask, JS, HTML/CSS, Google Maps API  
 **Code:** https://github.com/Zvezda4994/Landsat-Reflectance-Project
 
-### Wiki-Rabbit-Hole
+### Wiki-Rabbit-Hole [▶ Try the demo](https://wikirabbithole.streamlit.app/?embed=true){: .btn }
 One-paragraph previews + an “infinite jump” through Wikipedia articles for quick exploration.  
 **Stack:** Python  
 **Code:** https://github.com/Zvezda4994/Wiki-Rabbit-Hole
