@@ -1,100 +1,94 @@
 ---
-
 layout: default
-title: Your Name
-description: "Data Scientist • Python · SQL · AWS · Snowflake · MATLAB"
------------------------------------------------------------------------
+title: Aditya Singh
+description: "BCS (Co-op) @ Dalhousie • Sexton Scholar • building small data tools & web apps"
+---
 
-# Your Name
+# Aditya Singh
 
-Data Scientist focused on production ML, reliable data pipelines, and interpretable models.
+I’m a Computer Science (Co-op) student at **Dalhousie University** who likes turning ideas into small, working tools—web apps, scripts, and data utilities.
 
-**Email:** [you@example.com](mailto:you@example.com) · **LinkedIn:** [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/your-link) · **GitHub:** [https://github.com/your-handle](https://github.com/your-handle) · **Resume (PDF):** /assets/resume.pdf
+**Email:** adityasingh@dal.ca  
+**GitHub:** https://github.com/Zvezda4994  
+**LinkedIn:** https://www.linkedin.com/in/aditya-singh-642449253/  
+**Resume (PDF):** /assets/Aditya_Singh_Resume.pdf
 
 ---
 
-## Technical Skills
+## Featured Projects
 
-**Languages:** Python, SQL, MATLAB
-**Cloud & Data:** AWS, Snowflake
-**ML/DS:** scikit‑learn, XGBoost, pandas, NumPy, matplotlib, Airflow (or similar), MLflow (add your stack)
-**Other:** Git, Linux, Jupyter, Docker (if applicable)
+### Landsat Reflectance Project
+Web app to compare ground observations with Landsat passes; pick a location and get imagery/notifications when a satellite flies over.  
+**Stack:** Flask, JS, HTML/CSS, Google Maps API  
+**Code:** https://github.com/Zvezda4994/Landsat-Reflectance-Project
+
+### Compiler Front-End (JSON)
+DFA-based scanner + recursive-descent parser that validates JSON, builds a parse tree, and surfaces clear semantic errors.  
+**Stack:** Python  
+**Code:** https://github.com/Zvezda4994/Compiler-Front-End
+
+### Photo-randomiser
+Truly random photo picker that handles very large folders efficiently.  
+**Stack:** Python  
+**Code:** https://github.com/Zvezda4994/Photo-randomiser
+
+### Wiki-Rabbit-Hole
+One-paragraph previews + an “infinite jump” through Wikipedia articles for quick exploration.  
+**Stack:** Python  
+**Code:** https://github.com/Zvezda4994/Wiki-Rabbit-Hole
+
+### Spotify-mood-radio
+Lightweight tool that generates mood-based radio from your library.  
+**Stack:** Python  
+**Code:** https://github.com/Zvezda4994/Spotify-mood-radio
+
+### Google-Folder-Management-Script
+Automates Google Drive folder/subfolder creation from a Google Sheet.  
+**Stack:** JavaScript  
+**Code:** https://github.com/Zvezda4994/Google-Folder-Management-Script
+
+### GPA-calculator
+Simple GPA calculator for a specific course/term.  
+**Stack:** Java  
+**Code:** https://github.com/Zvezda4994/GPA-calculator
+
+### BoardGame
+Small board-game project (coursework).  
+**Stack:** Java  
+**Code:** https://github.com/Zvezda4994/BoardGame
+
+> More on GitHub: AdventOfCode-2024, Leetcode-solutions, book-translator, progress-tracker
 
 ---
 
-## Work Experience
+## Experience
 
-**Data Scientist — Toyota Financial Services**
-*June 2022 – Present*
-
-* Uncovered and corrected a missing step in a production data pipeline impacting **70%+** of active accounts.
-* Redeveloped loan originations model, yielding **\~50%** performance improvement and **\$1M** in potential loss avoidance.
-
-**Data Science Consultant — Shawhin Talebi Ventures LLC**
-*December 2020 – Present*
-
-* Led data collection, processing, and analysis for a study of **300+ biometric variables** in hyper‑realistic live‑fire training scenarios.
-* Applied unsupervised deep learning to longitudinal ICU data to discover novel **sepsis sub‑phenotypes**.
+**Administrative Assistant — Tidal Car Rentals**  
+_Dartmouth, NS · Sep 2023 – Aug 2024_  
+- Maintained and optimized the WordPress site (250+ weekly visitors), cutting load time by ~25%.  
+- Automated Google Drive folder creation + linking per vehicle, removing repetitive admin work.  
+- Wrote clear SOPs and internal docs, reducing onboarding time by ~40%.  
+- Handled 50+ weekly customer support inquiries and coordinated 20+ vehicle calendars.
 
 ---
 
 ## Education
 
-**University of Texas at Dallas**
-Ph.D., Physics — May 2022
-M.S., Physics — December 2019
-B.S., Physics — May 2017
+**Dalhousie University** — Bachelor of Computer Science (Co-op), GPA 3.94  
+- Sexton Scholar (2023–present), Dalhousie In-Course Scholarship  
+- Dean’s List (Fall 2023, Winter 2024)  
+- Relevant courses: Data Structures & Algorithms, Systems Programming, Database Systems,
+  Software Development, Discrete Math, Practical Data Science, Experimental Robotics
 
 ---
 
-## Selected Projects
+## Skills
 
-**Data‑Driven EEG Band Discovery with Decision Trees**
-Developed an objective strategy for discovering optimal EEG bands from power spectra. The learned bands better capture key signal components and outperformed common boundaries by \~2×.
-*Links:* [Publication](#publications) · (Code link here)
-
-**Decoding Physical & Cognitive Impacts of Particulate Matter ("Bike Study")**
-Trained **100+** ML models in MATLAB to estimate particulate matter concentrations from **300+** biometric variables; achieved high‑fidelity estimates (r² ≈ 0.91) with stronger performance for smaller particles.
-*Links:* [Preprint](#publications)
+**Languages:** Java, Python, C/C++, SQL, JavaScript, HTML/CSS  
+**Frameworks:** React, Node.js, Flask, JUnit, WordPress  
+**Tools:** Git, GCP, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse  
+**Libraries:** pandas, NumPy, Matplotlib
 
 ---
 
-## Talks & Lectures
-
-* **Causality: The new science of an old question** — GSP Seminar, Fall 2021
-* **Guest Lecture: Dimensionality Reduction** — PHYS 5336, Spring 2021
-* **Guest Lecture: Fourier and Wavelet Transforms** — PHYS 5315, Fall 2020
-* **A Brief Introduction to Optimization** — GSP Seminar, Fall 2019
-* **Weeks of Welcome Poster Competition** — UTD, Fall 2019
-* **A Brief Introduction to Networks** — GSP Seminar, Spring 2019
-* **Data Science YouTube:** (add channel link)
-
----
-
-## Publications
-
-* Talebi S., Lary D.J., Wijeratne L. O.H., and Lary, T. **Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning** (2019). DOI: 10.26717/BJSTR.2019.20.003446
-* Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. **Using Machine Learning for the Calibration of Airborne Particulate Sensors.** *Sensors* 2020, 20, 99.
-* Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; et al. **Autonomous Learning of New Environments with a Robotic Team…** *Sensors* 2021, 21, 2240.
-* Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. **Machine Learning for Light Sensor Calibration.** *Sensors* 2021, 21, 6259.
-* Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. **Data‑Driven EEG Band Discovery with Decision Trees.** *Preprints* 2022, 2022030145.
-* Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. **Unsupervised Blink Detection Using Eye Aspect Ratio Values.** *Preprints* 2022, 2022030200.
-* Talebi, S. et al. **Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra‑fine Scales.** *Research Square* preprint, 2022.
-* Lary, D.J. et al. **Machine Learning, Big Data, and Spatial Tools…** In *Geospatial Technology for Human Well‑Being and Health*, Springer, 2022.
-* Wijeratne, L.O.H. et al. **Advancement in Airborne Particulate Estimation Using Machine Learning.** In *Geospatial Technology for Human Well‑Being and Health*, Springer, 2022.
-
-> Full list and citations: add Google Scholar link.
-
----
-
-## Blog
-
-Add a link to your DS blog or Medium/Substack if you write.
-
----
-
-## How this site works
-
-This page is a single `index.md` rendered by GitHub Pages using the **Minimal** theme. Put your resume at `/assets/resume.pdf`, set `title` and `description` in `_config.yml`, and you’re done.
-
-<sub>Last updated {{ site.time | date: "%b %Y" }}.</sub>
+<sub>Built with GitHub Pages (Jekyll Minimal). Last updated {{ site.time | date: "%b %Y" }}.</sub>
