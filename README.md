@@ -31,13 +31,13 @@ Tip: Keep this page short. Link out to repos or a /projects page if you add more
 I like turning ideas into small, working things — from utility scripts to web apps. Recently I’ve been playing with compilers, APIs, and mapping/data projects.
 
 [Resume](/assets/resume.pdf){: .btn }
-📧 [adityasingh@dal.ca](mailto:adityasingh@dal.ca) · 🔗 [LinkedIn](https://www.linkedin.com/in/your-link/){\:target="\_blank"} · 🧑‍💻 \[GitHub]\({{ site.github.owner\_url }})
+📧 [adityasingh@dal.ca](mailto:adityasingh@dal.ca) · 🔗 [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/aditya-singh-642449253/)){\:target="\_blank"} · 🧑‍💻 \[GitHub]\({{ site.github.owner\_url }})
 
 ---
 
 ## Highlights
 
-* Dalhousie University · BCS (Co‑op) · 🔧 TODO: add grad year
+* Dalhousie University · BCS (Co‑op) · 2nd Year
 * Interests: data/ML pipelines, compilers/parsers, maps & geospatial, tiny automations
 * Favorite tools: Python, Java, JS/TS, Flask, React, SQLite, Git
 
