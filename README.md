@@ -16,16 +16,6 @@ Web app to compare ground observations with Landsat passes; pick a location and 
 **Stack:** Flask, JS, HTML/CSS, Google Maps API  
 **Code:** https://github.com/Zvezda4994/Landsat-Reflectance-Project
 
-### Compiler Front-End (JSON)
-DFA-based scanner + recursive-descent parser that validates JSON, builds a parse tree, and surfaces clear semantic errors.  
-**Stack:** Python  
-**Code:** https://github.com/Zvezda4994/Compiler-Front-End
-
-### Photo-randomiser
-Truly random photo picker that handles very large folders efficiently.  
-**Stack:** Python  
-**Code:** https://github.com/Zvezda4994/Photo-randomiser
-
 ### Wiki-Rabbit-Hole
 One-paragraph previews + an “infinite jump” through Wikipedia articles for quick exploration.  
 **Stack:** Python  
@@ -36,22 +26,23 @@ Lightweight tool that generates mood-based radio from your library.
 **Stack:** Python  
 **Code:** https://github.com/Zvezda4994/Spotify-mood-radio
 
-### Google-Folder-Management-Script
-Automates Google Drive folder/subfolder creation from a Google Sheet.  
-**Stack:** JavaScript  
-**Code:** https://github.com/Zvezda4994/Google-Folder-Management-Script
+### Compiler Front-End (JSON)
+DFA-based scanner + recursive-descent parser that validates JSON, builds a parse tree, and surfaces clear semantic errors.  
+**Stack:** Python  
+**Code:** https://github.com/Zvezda4994/Compiler-Front-End
+
+### Photo-randomiser
+Truly random photo picker that handles very large folders efficiently.  
+**Stack:** Python  
+**Code:** https://github.com/Zvezda4994/Photo-randomiser
 
 ### GPA-calculator
 Simple GPA calculator for a specific course/term.  
 **Stack:** Java  
 **Code:** https://github.com/Zvezda4994/GPA-calculator
 
-### BoardGame
-Small board-game project (coursework).  
-**Stack:** Java  
-**Code:** https://github.com/Zvezda4994/BoardGame
 
-> More on GitHub: AdventOfCode-2024, Leetcode-solutions, book-translator, progress-tracker
+> More on GitHub: AdventOfCode-2024, Leetcode-solutions, book-translator, progress-tracker, Board game, Google folder management script
 
 ---
 
