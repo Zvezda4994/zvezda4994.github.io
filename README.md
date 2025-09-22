@@ -10,7 +10,7 @@ I’m a second-year Computer Science (Co-op) student at **Dalhousie University**
 
 ---
 
-## Featured Projects
+## Projects
 
 ### Landsat Reflectance Project
 Web app to compare ground observations with Landsat passes; pick a location and get imagery/notifications when a satellite flies over.  
