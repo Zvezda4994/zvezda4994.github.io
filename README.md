@@ -27,6 +27,11 @@ Lightweight tool that generates mood-based radio from your library.
 **Stack:** Python  
 **Code:** https://github.com/Zvezda4994/Spotify-mood-radio
 
+### Automated Python Trading Bot
+Simple trading bot that leverages financial data APIs to generate buy/sell signals on a moving averages strategy
+**Stack:** Python, Pandas, Yfinance
+**Code:** https://github.com/Zvezda4994/Basic-Investing-Bot
+
 ### Compiler Front-End (JSON)
 DFA-based scanner + recursive-descent parser that validates JSON, builds a parse tree, and surfaces clear semantic errors.  
 **Stack:** Python  
@@ -37,10 +42,10 @@ Truly random photo picker that handles very large folders efficiently.
 **Stack:** Python  
 **Code:** https://github.com/Zvezda4994/Photo-randomiser
 
-### GPA-calculator
-Simple GPA calculator for a specific course/term.  
-**Stack:** Java  
-**Code:** https://github.com/Zvezda4994/GPA-calculator
+### Freakbob | Discord Bot
+Administrative Discord Bot deployed in a server with 220+ members  
+**Stack:** Python, Discord API, SQLite 
+**Code:** https://github.com/zuii77/DiscordBotTypeShi
 
 
 > More on GitHub: AdventOfCode-2024, Leetcode-solutions, book-translator, progress-tracker, Board game, Google folder management script
