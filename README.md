@@ -28,7 +28,7 @@ Lightweight tool that generates mood-based radio from your library.
 **Code:** https://github.com/Zvezda4994/Spotify-mood-radio
 
 ### Automated Python Trading Bot
-Simple trading bot that leverages financial data APIs to generate buy/sell signals on a moving averages strategy
+Simple trading bot that leverages financial data APIs to generate buy/sell signals on a moving averages strategy.
 **Stack:** Python, Pandas, Yfinance
 **Code:** https://github.com/Zvezda4994/Basic-Investing-Bot
 
